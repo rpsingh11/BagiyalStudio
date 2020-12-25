@@ -4,7 +4,14 @@ body{
 }
 .header{
   background:grey;
-  padding:15px;
+  display: flex;
+}
+h1{
+  padding:2%;
+}
+ul{
+  margin-left: auto;
+  padding:2%;
 }
 li{
   list-style: none;
