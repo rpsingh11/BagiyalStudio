@@ -22,8 +22,19 @@ li{
 a{
   color:white;
 }
-
 .moving-images{
   width:100%;
   height: auto;
+}
+
+/* Photo Section */
+
+.MarriagePhotos, .PreWeddingPhotos, .Shoots, .MusicVideos{
+  padding: 5% 7%;
+  background:cyan;
+  border:1px solid grey;
+  text-align:bottom;
+}
+.MarriagePhotos{
+  background-image: url('../images/p2.jpg');
 }
