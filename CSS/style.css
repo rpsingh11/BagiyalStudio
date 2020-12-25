@@ -1,0 +1,18 @@
+body{
+  background-image:url("../images/background.jpg");
+  background-position: center;
+}
+.header{
+  background:grey;
+  padding:15px;
+}
+li{
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.moving-images{
+  width:600px;
+  height: 550px;
+}
