@@ -24,12 +24,14 @@ a{
 }
 .carousel-item{
   width:100%;
-  height:40rem;
+  height:34rem;
 }
 
 
 /* Photo Section */
-
+#PhotoSection {
+  margin-top: auto;
+}
 .MarriagePhotos, .PreWeddingPhotos, .Shoots, .MusicVideos{
   padding: 5% 7%;
   background:cyan;
