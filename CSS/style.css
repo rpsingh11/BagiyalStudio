@@ -22,17 +22,17 @@ li{
 a{
   color:white;
 }
-.moving-images{
+.carousel-item{
   width:100%;
-  height: auto;
+  height:40rem;
 }
+
 
 /* Photo Section */
 
 .MarriagePhotos, .PreWeddingPhotos, .Shoots, .MusicVideos{
   padding: 5% 7%;
   background:cyan;
-  border:1px solid grey;
   text-align:bottom;
 }
 .MarriagePhotos{
